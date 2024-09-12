@@ -1,9 +1,9 @@
 {
-    "invite": "server invite code / vanity",
+    "invite": "https://discord.gg/5qUQmN2Z",
     "two_captcha_key": "your 2captcha api key",
     "captcha_retry_limit": 3,
-    "join_delay_min": 2000,
-    "join_delay_max": 3000,
+    "join_delay_min": 10000,
+    "join_delay_max": 100000,
     "boost": {
         "enabled": false,
         "delay_min": 4000,
